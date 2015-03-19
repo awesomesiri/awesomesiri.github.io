@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  <meta charset="UTF-8">
+
+  <title>Siri Pottavathini - My Faves</title>
+
+  <style>h1{
+  color:yellow;
+}
+
+h2{
+  border-style:dotted;
+  color:purple;
+}
+
+body{
+  text-align:center;
+  background-color:lightblue;
+}</style>
+
+</head>
+
+<body>
+
+  <html>
+<body>
+  <h1>My Faves</h1>
+   <h2><a href="http://s.codepen.io/siri-/debug/QwZbVy?">Home</a> <a href="http://s.codepen.io/siri-/debug/zxLzYM??">My Faves</a></h2>
+  <h3><img src="http://d2yhexj5rb8c94.cloudfront.net/sites/default/files/minions.jpg" width="600px"></h3>
+  <h3><img src="http://media.giphy.com/media/5mqzEH8bAuwJG/giphy.gif" width="600px"></h3>
+  <h3><img src="http://animalia-life.com/data_images/dog/dog3.jpg" width="600px"></h3>
+    <h3><iframe width="560" height="315" src="https://www.youtube.com/embed/P9-FCC6I7u0" frameborder="0" allowfullscreen></iframe></h3>
+  <h3>This is the trailer to the minions movie coming out in 2015!</h3>
+  </body>
+</html>
+
+</body>
+
+</html>
